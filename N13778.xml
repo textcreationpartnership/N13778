@@ -115,8 +115,9 @@
    <text xml:lang="eng">
       <body>
          <div type="letter">
-            <pb facs="tcp:017411_0000_0FA114FF847119A8"/>
-            <pb facs="tcp:017411_0001_0FA115003AD2CEB0" rendition="simple:additions"/>
+            <pb facs="unknown:017411_0000_0FA114FF847119A8"/>
+            <pb facs="unknown:017411_0001_0FA115003AD2CEB0"
+                rendition="simple:additions"/>
             <head>In Council,
 <date>March 26, 1781.</date>
             </head>
